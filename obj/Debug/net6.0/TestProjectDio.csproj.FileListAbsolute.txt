@@ -1,0 +1,6 @@
+C:\Users\Mateu\source\repos\TestProjectDio\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Mateu\source\repos\TestProjectDio\obj\Debug\net6.0\TestProjectDio.csproj.AssemblyReference.cache
+C:\Users\Mateu\source\repos\TestProjectDio\obj\Debug\net6.0\TestProjectDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\source\repos\TestProjectDio\obj\Debug\net6.0\TestProjectDio.AssemblyInfoInputs.cache
+C:\Users\Mateu\source\repos\TestProjectDio\obj\Debug\net6.0\TestProjectDio.AssemblyInfo.cs
+C:\Users\Mateu\source\repos\TestProjectDio\obj\Debug\net6.0\TestProjectDio.csproj.CoreCompileInputs.cache
